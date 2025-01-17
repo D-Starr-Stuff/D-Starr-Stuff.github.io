@@ -9,5 +9,5 @@ Hi, I'm Dylan! I'm a full-time student at UCF, looking to get a degree in Techni
 <img src="DJ_REX_TONEMAPPED.jpg" width="500" title="DJ Rex says hello too!">
 </p>
 
-![This website was forked from Dr. Johnson's original template site.](https://ekjphd.github.io/ENC4265/) <br />
+<a href="https://ekjphd.github.io/ENC4265/">This website was forked from Dr. Johnson's original template site.</a> <br />
 All other personalized content (so far) was written by a human, me. This statement will be updated if that changes.
