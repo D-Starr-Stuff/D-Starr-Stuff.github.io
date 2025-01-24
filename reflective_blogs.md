@@ -5,9 +5,19 @@
 # Wayback Analysis
 <a href="https://web.archive.org/web/20100401082612/http://www.youtube.com/">YouTube.com, April 2010.</a> <br />
 # Layout
-Although Widescreen formats like 16:9 and 16:10 were available to consumers, 4:3 remained the standard aspect ratio until roughly 2012 to 2013. The webpage's margins, when viewed on a modern display, are quite large, and account for around half of the screen real estate. While present-day web design would likely decrease this significant margin size, it is likely vertical banner ads would be placed along the borders as well, something which YouTube relegated to a main, horizontal banner ad at the top of the page.
+Although Widescreen formats like 16:9 and 16:10 were available to consumers, 4:3 remained the standard aspect ratio until roughly 2012 to 2013. The webpage's margins, when viewed on a modern display, are quite large, and account for around half of the screen real estate. While present-day websites would likely decrease this significant margin size (the current format has moved pages and tabs to this area) it is likely vertical banner ads would be placed along the borders as well, something which YouTube relegated to a main, horizontal banner ad at the top of the page.
+<br /><br />
+Most notably, however, is the way that YouTube presents its videos: Several categories are available, from curated content in the Spotlight section, Recommended content from previous searches and watch history, and several topics in the Popular column. This is somewhat similar to the site's current structure, though with much less detailed, much more broad 'genres' present, acting more as a homepage. Where YouTube's current functionality differs vastly, however, is the "infinite scroll" of videos, shorts, community posts, and ads.
+<br /><br />
+The platform has pivoted from being a video sharing hub to a form of social media, seeking to engage users for as long as possible. Regardless of any personal opinions about this change, it allows YouTube to make more money on sponsored videos and advertisements, and channels to have a much higher chance of being seen and interacted with, since videos will be populated without a limit.
 # Content
-At this time, YouTube still maintained and readily linked their official blog posts next to videos, encouraging individuals to create accounts and upload content. They also boast the ability to upload videos in 1080p HD quality, and that 24 hours of content are uploaded every minute, which when <a href="https://blog.youtube/press/">compared to current metrics, serves to show how much their userbase has increased.</a>
+At this time, YouTube still maintained and readily linked their official blog posts next to videos, encouraging individuals to create accounts and upload content. They also boast the ability to upload videos in 1080p HD quality, and that 24 hours of content are uploaded every minute, which when compared to current metrics, <a href="https://blog.youtube/press/">serves to show how much their userbase has increased</a>. Now, YouTube is a part of Google's software conglomerate, and has much different concerns with storage space and video compression than they did a decade ago, but the efforts to avoid running out of server space are still necessary.
+<br /><br />
+In spite of the space-saving "TEXTp" format mentioned in this particular snapshot of the website being an April Fools joke, it is still notable that YouTube's blog was easily accessible from the website, encouraging users to interact with the site. YouTube's current popularity and longstanding presence means that the blog is less present, reserved for announcements as opposed to community engagement.
+# Reflection
+To briefly mention the aesthetic of YouTube as a whole, modern web design has pushed the entire platform towards a streamlined, floating user interface, also partially due to Google's expectations of style parity between websites and applications for mobile devices and television. Blue hyperlink text, image borders, and many text styles have been condensed and removed from sites across the internet in favor of consistency and appearance. Usable page space and length have been optimized to better suit new standards for visual and commercial purposes.
+<br /><br />
+In those ways, YouTube is like many of the hundreds of thousands of other websites on the internet, publicly-available and ever-evolving to meet both internal and external expectations. 
 
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
@@ -46,4 +56,3 @@ On your portfolio, post the following:
 # Reflective Blog 3
 TBD
 -->
-TBA
