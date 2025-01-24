@@ -16,7 +16,7 @@ The platform has pivoted from being a video sharing hub to a form of social medi
 At this time, YouTube still maintained and readily linked their official blog posts next to videos, encouraging individuals to create accounts and upload content. They also boast the ability to upload videos in 1080p HD quality, and that 24 hours of content are uploaded every minute, which when compared to current metrics, <a href="https://blog.youtube/press/">shows how much their userbase has increased</a>. Now, YouTube is a part of Google's software conglomerate, and has much different concerns with storage space and video compression than they did a decade ago, but the efforts to avoid running out of server space are still necessary.
 <br /><br />
 <p align="center">
-<img src="YOUTUBE_WAYBACK_1" width="500" title="Photo from the Internet Archive.">
+<img src="YOUTUBE_WAYBACK_1.png" width="500" title="Photo from the Internet Archive.">
 </p>
 <br /><br />
 In spite of the space-saving "TEXTp" format mentioned in this particular snapshot of the website being an April Fools joke, it is still notable that YouTube's blog was easily accessible from the website, encouraging users to interact with the site. YouTube's current popularity and longstanding presence means that the blog is less present, reserved for announcements as opposed to community engagement.
