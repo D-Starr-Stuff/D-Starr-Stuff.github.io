@@ -2,8 +2,12 @@
 
 # Reflective Blogs
 
-## Wayback Analysis
-
+# Wayback Analysis
+<a href="[https://web.archive.org/web/20100401082612/http://www.youtube.com/]">YouTube.com, April 2010</a> <br />
+# Layout
+Although Widescreen formats like 16:9 and 16:10 were available to consumers, 4:3 remained the standard aspect ratio until roughly 2012 to 2013. The webpage's margins, when viewed on a modern display, are quite large, and account for around half of the screen real estate. While present-day web design would likely decrease this significant margin size, it is likely vertical banner ads would be placed along the borders as well, something which YouTube relegated to a main, horizontal banner ad at the top of the page.
+# Content
+At this time, YouTube still maintained and readily linked their official blog posts next to videos, encouraging individuals to create accounts and upload content. They also boast the ability to upload videos in 1080p HD quality, and that 24 hours of content are uploaded every minute, which when <a href="[https://blog.youtube/press/]">compared to current metrics, serves to show how much their userbase has increased.</a>
 
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
