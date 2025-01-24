@@ -17,7 +17,7 @@ In spite of the space-saving "TEXTp" format mentioned in this particular snapsho
 # Reflection
 To briefly mention the aesthetic of YouTube as a whole, modern web design has pushed the entire platform towards a streamlined, floating user interface, also partially due to Google's expectations of style parity between websites and applications for mobile devices and television. Blue hyperlink text, image borders, and many text styles have been condensed and removed from sites across the internet in favor of consistency and appearance. Usable page space and length have been optimized to better suit new standards for visual and commercial purposes.
 <br /><br />
-In those ways, YouTube is like many of the hundreds of thousands of other websites on the internet, publicly-available and ever-evolving to meet both internal and external expectations. 
+In those ways, YouTube is like many of the billions of other websites on the internet, publicly-available and ever-evolving to meet both internal and external expectations. 
 
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
