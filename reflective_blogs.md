@@ -2,6 +2,11 @@
 
 # Reflective Blogs
 
+# Table of Contents 
+1. [Wayback Analysis](#wayback-analysis)
+2. [Quick Start Guide](#quick-start-guide)
+3. [Reflective Blog 3](#reflective-blog-3)
+
 # Wayback Analysis
 <a href="https://web.archive.org/web/20100401082612/http://www.youtube.com/">YouTube.com, April 2010.</a> <br />
 # Layout
@@ -30,6 +35,46 @@ In spite of the space-saving "TEXTp" format mentioned in this particular snapsho
 To briefly mention the aesthetic of YouTube as a whole, modern web design has pushed the entire platform towards a streamlined, floating user interface, also partially due to Google's expectations of style parity between websites and applications for mobile devices and television. Blue hyperlink text, image borders, and many text styles have been condensed and removed from sites across the internet in favor of consistency and appearance. Usable page space and length have been optimized to better suit new standards for visual and commercial purposes.
 <br /><br />
 In those ways, YouTube is like many of the billions of other websites on the internet, publicly-available and ever-evolving to meet both internal and external expectations. 
+
+
+
+
+
+# Quick Start Guide
+
+## Mattel Ghostbusters Replica PKE Meter
+
+Congratulations on becoming the proud owner of your very own psychokinetic energy meter!
+<br /><br />
+WARNING: Collector's Toy, Nonfunctional Display Item!
+
+## Requirements:
+Phillips Head Screwdriver
+<br />
+Two (2) AAA Batteries
+<br />
+Scissors/Boxcutter
+
+## 1. Open protective Shipping Box.
+Doing so will require the usage of scissors or a boxcutter to remove tape. Inside will be the display box.
+## 2. Open decorative Display Box.
+The lid of the box will lift off without any need for a cutting tool.
+## 3. Remove packing peanuts.
+Dispose of or keep these for display purposes.
+## 4. Unwrap PKE meter.
+The plastic film is folded over, and will not require a cutting tool.
+## 5. Remove Four (4) Phillips Head Screws from the backplate.
+Use caution, the backplate will be completely free once the screws are removed. The screws will stay within the back half of the shell.
+## 6. Install Two (2) AAA Batteries in the handle.
+Be mindful of orientation, check your batteries for their positive and negative terminals.
+## 7. Replace outer shell.
+The two halves will be completely flush when aligned properly.
+## 8. Replace Four (4) Phillips Head Screws.
+Do not overtighten.
+## 9. Press any button.
+Your PKE Meter is ready for action!
+<br />
+Press the silver buttons to activate lights and sounds, spin the wheel on the handle to adjust sound speed, and slide the selection bar left and right to change the light pattern.
 
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
