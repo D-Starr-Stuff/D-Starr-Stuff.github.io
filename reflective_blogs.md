@@ -57,27 +57,28 @@ Scissors/Boxcutter
 ## 1. Open protective Shipping Box.
 Doing so will require the usage of scissors or a boxcutter to remove tape. Inside will be the display box.
 ## 2. Open decorative Display Box.
-<img src="MATTY_PKE_BOX.jpg" width="500" title="Photo from mwctoys.com"><br />
+<img src="MATTY_PKE_BOX.jpg" width="300" title="Figure 1. Photo from mwctoys.com"><br />
 The lid of the box will lift off without any need for a cutting tool.
 ## 3. Remove packing peanuts.
 Dispose of or keep these for display purposes.
 ## 4. Unwrap PKE meter.
-<img src="MATTY_PKE_OFF.jpg" width="500" title="Photo from mwctoys.com"><br />
+<img src="MATTY_PKE_OFF.jpg" width="300" title="Figure 2. Photo from mwctoys.com"><br />
 The plastic film protecting the device is folded over, and will not require a cutting tool.
 ## 5. Remove Four (4) Phillips Head Screws from the backplate.
+<img src="MATTY_PKE_BACK.jpg" width="300" title="Figure 3. Photo from me."><br />
 Use caution, the backplate will be completely free once the screws are removed. The screws will stay within the back half of the shell.
-## 6. Install Three (3) AAA Batteries.
-Be mindful of orientation, check your batteries for their positive and negative terminals.
+## 6. Install Three (3) AAA Batteries in the Handle and Body.
+Be mindful of orientation, check your batteries for their positive and negative terminals. 
 ## 7. Replace outer shell.
+<img src="MATTY_PKE_SIDE.jpg" width="300" title="Figure 4. Photo from me."><br />
 The two halves will be completely flush when aligned properly.
 ## 8. Replace Four (4) Phillips Head Screws.
 Do not overtighten.
 ## 9. Press any button.
-<img src="MATTY_PKE_CONTROLS.jpg" width="500" title="Photo from mwctoys.com"><br />
-Your PKE Meter is ready for action!
-<br />
+<img src="MATTY_PKE_CONTROLS.jpg" width="300" title="Figure 5. Photo from mwctoys.com"><br />
 Press the silver buttons to activate lights and sounds, spin the wheel on the handle to adjust sound speed, and slide the selection bar left and right to change the light pattern.
-
+<br />
+## Your PKE Meter is now ready for action!
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
