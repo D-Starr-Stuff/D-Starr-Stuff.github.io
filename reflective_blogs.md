@@ -102,7 +102,9 @@ The most significant drawback were the pictures I used, and their lack of specif
 <br /><br />
 This was clear during the test; my friend struggled to understand the concepts of the inner and outer shell, and had to play around with the device to figure out its controls. The latter problem is at least partially excusable, under the guise that it is a toy and meant to be learned through experience, but the setup process was unnecessarily unlcear, and would need to be addressed.
 <br /><br />
-My primary feedback was the style of the instructions, and that the GitHub page did not suit their format well. Looking back this could have been resolved by simply uploading a better-designed PDF version of the instructions that had been more customized in their layout, but I wanted to learn more about the capabilities of GitHub pages, and tried to keep them entirely on the website. Had I been able to take more targeted photography to act as more useful visual aids, it is likely I would have been more inclined on the design of the instructions as well; those are the two things I would change if I were to rework this document.
+My primary feedback was the style of the instructions, and that the GitHub page did not suit their format well. Looking back this could have been resolved by simply uploading a better-designed PDF version of the instructions that had been more customized in their layout, but I wanted to learn more about the capabilities of GitHub pages, and tried to keep them entirely on the website. Had I been able to take more targeted photography to act as more useful visual aids, it is likely I would have been more inclined to refine the design of the instructions as well; those are the two things I would change if I were to rework this document.
+<br /><br />
+No tools were used to write or proofread this response, AI or otherwise.
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
