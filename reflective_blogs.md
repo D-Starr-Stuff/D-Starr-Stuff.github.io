@@ -105,6 +105,8 @@ This was clear during the test; my friend struggled to understand the concepts o
 My primary feedback was the style of the instructions, and that the GitHub page did not suit their format well. Looking back this could have been resolved by simply uploading a better-designed PDF version of the instructions that had been more customized in their layout, but I wanted to learn more about the capabilities of GitHub pages, and tried to keep them entirely on the website. Had I been able to take more targeted photography to act as more useful visual aids, it is likely I would have been more inclined to refine the design of the instructions as well; those are the two things I would change if I were to rework this document.
 <br /><br />
 No tools were used to write or proofread this response, AI or otherwise.
+
+
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
