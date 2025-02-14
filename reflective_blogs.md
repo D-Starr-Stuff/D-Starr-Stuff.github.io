@@ -5,6 +5,7 @@
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
+3. [Reflective Blog 3](#reflective-blog-3)
 
 # Wayback Analysis
 <a href="https://web.archive.org/web/20100401082612/http://www.youtube.com/">YouTube.com, April 2010.</a> <br />
@@ -84,6 +85,24 @@ Figure 5.<br />
 Press the silver buttons to activate lights and sounds, spin the wheel on the handle to adjust sound speed, and slide the selection bar left and right to change the light pattern.
 <br />
 ## Your PKE Meter is now ready for action!
+
+
+
+
+
+# Reflective Blog 3
+## Prompt
+B: Conduct a usability test on one of your previous assignments for this class (Deliverables or Prompt C). Ask a friend or family member to follow your instructions, and observe them without helping them. You can watch over their shoulder or ask them to screen share on Zoom. If they feel comfortable, ask them to also speak their thoughts as they try to follow your written instructions. What did they struggle to do? What seemed well-explained? What recommendations do you have for yourself moving forward?
+<br />
+<br />
+## Response
+I had a friend of mine use the PKE meter instructions for a first-time unboxing. Unfortunately I did not have the plastic wrap or original shipping box the item came in, so the first steps regarding unwrapping and unboxing had to be skipped. Since these steps are fairly intutive and the guide mainly focused on the specifics of this particular product, I believe this is still a fair test.
+<br /><br />
+The most significant drawback were the pictures I used, and their lack of specificity. I had lent the toy out to a friend for a convention that happened during the assignment, so the few photos that I could find were from other individuals and their reviews, or from inspection when I originally bought the product. This meant that they lacked a tremendous amount of informative value, and my visual guides suffered as a result.
+<br /><br />
+This was clear during the test; my friend struggled to understand the concepts of the inner and outer shell, and had to play around with the device to figure out its controls. The latter problem is at least partially excusable, under the guise that it is a toy and meant to be learned through experience, but the setup process was unnecessarily unlcear, and would need to be addressed.
+<br /><br />
+My primary feedback was the style of the instructions, and that the GitHub page did not suit their format well. Looking back this could have been resolved by simply uploading a better-designed PDF version of the instructions that had been more customized in their layout, but I wanted to learn more about the capabilities of GitHub pages, and tried to keep them entirely on the website. Had I been able to take more targeted photography to act as more useful visual aids, it is likely I would have been more inclined on the design of the instructions as well; those are the two things I would change if I were to rework this document.
 <!--# Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
