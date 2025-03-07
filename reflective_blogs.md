@@ -7,6 +7,7 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
 
 # Wayback Analysis
 <a href="https://web.archive.org/web/20100401082612/http://www.youtube.com/">YouTube.com, April 2010.</a> <br />
@@ -114,13 +115,30 @@ F: Reflect on one of your completed Deliverables for this course. What was easy 
 <br />
 <br />
 ## Response
-Looking back at my Manual Assessment Memo, and at the feedback it was given, I agree, it was much to verbose for its format. A memo should be read easily at a glance, and its content extracted quickly, which would be a lot easier if i cut around 15-20 percent of what I wrote.
+Looking back at my Manual Assessment Memo, and at the feedback it was given, I agree, it was much too verbose for its format. A memo should be read easily at a glance, and its content extracted quickly, which would be a lot easier if i cut around 15-20 percent of what I wrote.
 <br /><br />
 My specific analysis was one that was suggested in the assignment details: the Unity User Manual. That made the part of reading through and understanding how a manual is used and how it could be improved rather easy, since I use this particular manual on the regular, and am familiar with its shortcomings. More times than I would like to admit, its lack of specificity when it comes to the versions it supports has led me to turn to third-party resources, which was one of the focuses of my analysis.
 <br /><br />
 Ironically, this familiarity made it difficult for me to step back and address these problems in a broader sense. One of the harder parts of this assignment was to distance myself from my individual experiences and express them more broadly, as to better suit the memo's audience. A CEO is mostly someone who deals with the corporate, business administration side of things, and not necessarily someone who would have an innate familiarity with the technical side of things. Without getting into too much detail or using specific examples, I think I accomplished this purpose well, just not in a small enough memo.
 <br /><br />
 The feedback provided on this assignment informs what I learned about technical communication: Brevity and conciseness are something that I struggle with, and something that I need to improve on going forward. Other than that, I feel that the memo accomplished what it intended to well enough.
+<br /><br />
+No tools were used to write or proofread this response, AI or otherwise.
+<br /><br /><br />
+
+# Reflective Blog 5
+## Prompt
+E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
+<br />
+<br />
+## Response
+Coinciding with the Chatbot assignment for this week, I spent some time testing the UCF Knightbot.
+<br /><br />
+While our work required us to make a primarily AI-driven chatbot, Knightbot seems to be either incredibly limited by its constraints, or more likely, does not use artificial intelligence at all, and instead relies on a logic tree and preset commands.
+<br /><br />
+For its purpose, Knightbot is able to answer many general questions in a quick, repeatable way, but is incapable of developing a solution or answer to any problem or question that is outside of that range. In that sense, Knightbot is much closer to a search engine with extra functions than it is an actual chatbot.
+<br /><br />
+While Knightbot may be presented in this manner, and though it is less of a conversational chat and more of a guided question and answer system, it should be noted that it is still useful; UCF's many pages related to content Knightbot is capable of producing a response for can be cluttered, and sometimes difficult to read. Knightbot streamlines this process. Though it is superficial, this makes finding certain information faster. In that way, it accomplishes its purpose well enough through its broad, but not exhaustive functionality, in spite of a flawed user experience.
 <br /><br />
 No tools were used to write or proofread this response, AI or otherwise.
 <br />
