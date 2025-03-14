@@ -138,7 +138,24 @@ While our work required us to make a primarily AI-driven chatbot, Knightbot seem
 <br /><br />
 For its purpose, Knightbot is able to answer many general questions in a quick, repeatable way, but is incapable of developing a solution or answer to any problem or question that is outside of that range. In that sense, Knightbot is much closer to a search engine with extra functions than it is an actual chatbot.
 <br /><br />
-While Knightbot may be presented in this manner, and though it is less of a conversational chat and more of a guided question and answer system, it should be noted that it is still useful; UCF's many pages related to content Knightbot is capable of producing a response for can be cluttered, and sometimes difficult to read. Knightbot streamlines this process. Though it is superficial, this makes finding certain information faster. In that way, it accomplishes its purpose well enough through its broad, but not exhaustive functionality, in spite of a flawed user experience.
+Knightbot may be presented in this manner, and though it is less of a conversational chat and more of a guided question and answer system, it should be noted that it is still useful; UCF's many pages related to content Knightbot is capable of producing a response for can be cluttered, and sometimes difficult to read. Knightbot streamlines this process. Though it is superficial, this makes finding certain information faster. In that way, it accomplishes its purpose well enough through its broad, but not exhaustive functionality, in spite of a flawed user experience.
 <br /><br />
 No tools were used to write or proofread this response, AI or otherwise.
+<br /><br /><br />
+
+# Reflective Blog 6
+## Prompt
+Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn?
 <br />
+<br />
+## Response
+Uploading my most up to ChatGPT provided some insights on what could be done better, and what was already done well. My formatting and structure was deemed appropriate, and my technical details were solid. It was details that made my resume highlight an individual that were lacking.
+<br /><br />
+Broadly, ChatGPT made some minor, seemingly inconsequential changes. Verbs were the main thing it focused on, and it made my skills section a bit more verbose than I'd like it to be, but kept a professional tone for prospective employers that was mostly similar to mine.
+<br /><br />
+In the largest change, though, wanted to extract more personality or "style" from me (through its questions) that it was to add in a "Resume Objective" section. While I have heard of this approach, and while it would replace my more generic Summary section, ChatGPT seemed to think this was a section dedicated more to a distinctive outlet for me, as opposed to my employer. Where as I have understood this section to be used for a more targeted resume to demonstrate interest in a particular section of positions, ChatGPT seemed to understand it as my own, unique objectives; not once did it ask about who the resume was going to. 
+<br /><br />
+To reflect, I believe my resume as an umbrella document is still appropriate, and I question the more sweeping changes that were suggested. Should I wish to consult an AI tool again, perhaps I would see that this was a fluke in the particular random seed ChatGPT chose or related to some other internal hiccup.
+<br /><br />
+No tools were used to write or proofread this response, AI or otherwise.
+<br /><br /><br />
