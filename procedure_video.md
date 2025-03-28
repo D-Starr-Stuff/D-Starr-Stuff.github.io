@@ -3,9 +3,4 @@
 
 # Procedure Video
 
-TBA
-
-<!--[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)-->
-
-<!--### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)-->
-
+https://github.com/D-Starr-Stuff/D-Starr-Stuff.github.io/raw/refs/heads/main/Blenderdemo.webm
