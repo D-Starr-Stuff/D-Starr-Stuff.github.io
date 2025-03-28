@@ -9,6 +9,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
 
 # Wayback Analysis
 <a href="https://web.archive.org/web/20100401082612/http://www.youtube.com/">YouTube.com, April 2010.</a> <br />
@@ -157,6 +158,23 @@ Broadly, ChatGPT made some minor, seemingly inconsequential changes. Verbs were 
 In the largest change, though, wanted to extract more personality or "style" from me (through its questions) that it was to add in a "Resume Objective" section. While I have heard of this approach, and while it would replace my more generic Summary section, ChatGPT seemed to think this was a section dedicated more to a distinctive outlet for me, as opposed to my employer. Where as I have understood this section to be used for a more targeted resume to demonstrate interest in a particular section of positions, ChatGPT seemed to understand it as my own, unique objectives; not once did it ask about who the resume was going to. 
 <br /><br />
 To reflect, I believe my resume as an umbrella document is still appropriate, and I question the more sweeping changes that were suggested. Should I wish to consult an AI tool again, perhaps I would see that this was a fluke in the particular random seed ChatGPT chose or related to some other internal hiccup.
+<br /><br />
+No tools were used to write or proofread this response, AI or otherwise.
+<br /><br /><br />
+
+# Reflective Blog 7
+## Prompt
+D: Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post. 
+<br />
+<br />
+## Response
+I analyzed the <a href="https://docs.blender.org/manual/en/4.3/index.html">Blender 4.3 Manual</a>, coinciding with my Procedure Video.
+<br /><br />
+Having already familiarized myself with this manual, and having used versions of it for several years now, I intend to make this analysis from the perspective of someone who is a first-time user.
+<br /><br />
+Stylistically, the Blender manual matches its application and website well, and does a good job of providing a selection of contents before all else: The introduction to each section is located at the very top of each of these indexes. Before even beginning to explore Blender itself, an entirely cordoned off section above the main selections is dedicated to Blender's licensing expectations and installation instructions. Pages are combined in a logical fashion, and contents available on each index will be highlighted on their respective pages. This makes it simple to not only browse immediately relevant content, but also easy to branch off and examine related topics and quickly reconvene to the original inquiry.
+<br /><br />
+In reflection, and especially when regarding my analysis of the Unity documentation in my Assessment Memo, Blender's manual is more user-friendly, but perhaps too oversimplified: Its rigid adherence to its style makes figures like tables more difficult to read when compared to those in Unity's User Manual, and its fewer overall graphics and screenshots can make it somewhat wordy at times. However, its much more maintained nature and better overall structure largely circumvents these shortcomings.
 <br /><br />
 No tools were used to write or proofread this response, AI or otherwise.
 <br /><br /><br />
