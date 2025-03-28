@@ -4,3 +4,6 @@
 # Procedure Video
 
 [![Blender Add-On Install Procedure Video](blenderdemo_thumb.png)](https://github.com/D-Starr-Stuff/D-Starr-Stuff.github.io/raw/refs/heads/main/Blenderdemo.webm)
+
+
+Edited in DaVinci Resolve. NVIDIA Broadcast was used to denoise my narration, which is powered by AI.
